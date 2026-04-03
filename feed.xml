@@ -3,32 +3,31 @@
     <title>SakuraBit</title>
     <link href="https://sakurabit.dev/feed.xml" rel="self" />
     <link href="https://sakurabit.dev" />
-    <updated>2026-04-03T22:07:49+02:00</updated>
+    <updated>2026-04-03T22:48:23+02:00</updated>
     <author>
         <name>DozyLynx</name>
     </author>
     <id>https://sakurabit.dev</id>
 
     <entry>
-        <title>SakuraBit Test</title>
+        <title>The Philosophy of SakuraBit</title>
         <author>
             <name>DozyLynx</name>
         </author>
-        <link href="https://sakurabit.dev/sakurabit-test.html"/>
-        <id>https://sakurabit.dev/sakurabit-test.html</id>
+        <link href="https://sakurabit.dev/the-philosophy-of-sakurabit.html"/>
+        <id>https://sakurabit.dev/the-philosophy-of-sakurabit.html</id>
 
-        <updated>2026-04-03T22:07:49+02:00</updated>
+        <updated>2026-04-03T22:48:23+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    SakuraBit Test
+                    [1] Our mission is to bridge the gap between people to provide accessible open-source projects. We believe that knowledge should be free, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-    <h2 id="sakurabit-test">
-      SakuraBit Test
-    </h2>
+                <figure class="post__image post__image--left"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-right: 1.37143rem; outline: rgba(13, 139, 242, 0.55) solid 3px !important;" src="https://sakurabit.dev/media/posts/2/hayley-maxwell-bdvycycdu-M-unsplash.jpg" alt="" width="405" height="405" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-xs.jpg 300w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-sm.jpg 480w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-md.jpg 768w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-lg.jpg 1024w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-xl.jpg 1360w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-2xl.jpg 1600w"></figure>
+<p class="dropcap">[1] Our mission is to bridge the gap between people to provide accessible open-source projects. We believe that knowledge should be free, and our collabora<span style="font-size: inherit;">tive platform is built on the principle of shared intellectual growth.</span></p>
+<p class="dropcap">[2] SakuraBit operates as a small, constantly evolving team of independent contributors. We are not a traditional corporation, but a collor full pile of software engineers, researchers, journalists and writers dedicated to the                                                                               open-source ethos.</p>
             ]]>
         </content>
     </entry>
