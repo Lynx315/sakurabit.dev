@@ -10,19 +10,5 @@
         "name": "DozyLynx"
     },
     "items": [
-        {
-            "id": "https://sakurabit.dev/the-philosophy-of-sakurabit.html",
-            "url": "https://sakurabit.dev/the-philosophy-of-sakurabit.html",
-            "title": "The Philosophy of SakuraBit",
-            "summary": "[1] Our mission is to bridge the gap between people to provide accessible open-source projects. We believe that knowledge should be free, and&hellip;",
-            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-right: 1.37143rem; outline: rgba(13, 139, 242, 0.55) solid 3px !important;\" src=\"https://sakurabit.dev/media/posts/2/hayley-maxwell-bdvycycdu-M-unsplash.jpg\" alt=\"\" width=\"405\" height=\"405\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-xs.jpg 300w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-sm.jpg 480w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-md.jpg 768w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-lg.jpg 1024w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-xl.jpg 1360w ,https://sakurabit.dev/media/posts/2/responsive/hayley-maxwell-bdvycycdu-M-unsplash-2xl.jpg 1600w\"></figure>\n<p class=\"dropcap\">[1] Our mission is to bridge the gap between people to provide accessible open-source projects. We believe that knowledge should be free, and our collabora<span style=\"font-size: inherit;\">tive platform is built on the principle of shared intellectual growth.</span></p>\n<p class=\"dropcap\">[2] SakuraBit operates as a small, constantly evolving team of independent contributors. We are not a traditional corporation, but a collor full pile of software engineers, researchers, journalists and writers dedicated to the                                                                               open-source ethos.</p>",
-            "author": {
-                "name": "DozyLynx"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-03T22:48:23+02:00",
-            "date_modified": "2026-04-03T22:48:23+02:00"
-        }
     ]
 }
