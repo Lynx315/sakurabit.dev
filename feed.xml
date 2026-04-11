@@ -3,10 +3,31 @@
     <title>SakuraBit</title>
     <link href="https://sakurabit.dev/feed.xml" rel="self" />
     <link href="https://sakurabit.dev" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-04-11T15:35:23+02:00</updated>
     <author>
         <name>DozyLynx</name>
     </author>
     <id>https://sakurabit.dev</id>
 
+    <entry>
+        <title>The Start of Vulpine</title>
+        <author>
+            <name>DozyLynx</name>
+        </author>
+        <link href="https://sakurabit.dev/the-start-of-vulpine.html"/>
+        <id>https://sakurabit.dev/the-start-of-vulpine.html</id>
+
+        <updated>2026-04-11T15:35:23+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    SakuraBit is beginning the conception phase of Vulpine — our take on what Firefox could be if privacy came first, by default. We&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>SakuraBit is beginning the conception phase of Vulpine — our take on what Firefox could be if privacy came first, by default.</p><p>We believe Firefox is one of the best browsers out there.  But to truly make it privacy-respecting, you need to dig through settings and install the right extensions to get a truly privacy-respecting tool. 
+That gap is exactly what Vulpine is designed to close.</p><p>Our goal is to ship oure view of Firefox out of the box: the right privacy settings enabled, trusted extensions like uBlock Origin preinstalled, and a few additional tweaks to go the extra mile — all without asking anything of the user.</p><p>Vulpine will be fully open source and free for everyone.</p><p>Your SakuraBit team</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
